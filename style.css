@@ -1,0 +1,29 @@
+body {
+    font-family: Helvetica;
+}
+
+p {
+    box-shadow: 1px 1px 4px 2px grey;
+    padding: 8px;
+    width: 500px;
+    margin: 8px;
+}
+
+input {
+    width: 150px;
+}
+
+#display {
+    display: flex;
+    flex-direction: column;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+}
+
+button {
+    height: 30px;
+    
+}
